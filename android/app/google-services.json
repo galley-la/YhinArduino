@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668554038501",
+    "firebase_url": "https://yhinarduino.firebaseio.com",
+    "project_id": "yhinarduino",
+    "storage_bucket": "yhinarduino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668554038501:android:cb2050dbfc05d904d9180c",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.yhinarduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668554038501-11u53m2ik56tca0e9pjpd61u6c3hfbh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQrwBuPV-JaWgdu8vEpC0SSdgNITZmFHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668554038501-11u53m2ik56tca0e9pjpd61u6c3hfbh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
