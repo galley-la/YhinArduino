@@ -32,6 +32,7 @@ class _MonitorState extends State<Monitor> {
           setState(() {
             despt = map['despt'];
             status = map['status'];
+            
           });
         });
   }
